@@ -1,4 +1,4 @@
-# AIOT組別3's New Homework #5 (in huanchen1107/aiot_hw5)
+# AIOT組別3's New Homework #5 (in HsuHsingYu/aiot_hw5)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
