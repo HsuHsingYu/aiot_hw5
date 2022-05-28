@@ -15,9 +15,6 @@
    * C:> git config --global user.email s108056052@smail.nchu.edu.tw
  <img src="./step.jpg" height=300 />  
 
-
-
-
-
-
-~
+### STEP3
+* 加入indexNoAI.html
+* 修改app.py程式碼
