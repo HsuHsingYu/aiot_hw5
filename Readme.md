@@ -18,3 +18,9 @@
 ### STEP3
 * 加入indexNoAI.html
 * 修改app.py程式碼
+
+### STEP4
+* 加入indexAI.html
+* 修改app.py程式碼
+* 加入model
+* 加入db互動功能
