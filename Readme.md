@@ -21,6 +21,11 @@ git remote add origin https://github.com/HsuHsingYu/aiot_hw5.git
 git branch -M main
 git push -u origin main
 
+### STEP2 simple flask web
+* 完成內容請見step2
+### STEP3
+### STEP4
+### STEP5 complete
 
 
 
