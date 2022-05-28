@@ -24,8 +24,11 @@ git push -u origin main
 ### STEP2 simple flask web
 * 完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
+* 完成內容請見step3
 ### STEP4 Logistic regression (有db互動)
+* 完成內容請見step4
 ### STEP5 complete
+* 完成內容請見step5
 
 
 
