@@ -1,5 +1,4 @@
 # AIOT 組別3's Homework #5 
-### branch : step 2 (simple flask)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 ### Development Environment Setup
@@ -13,7 +12,6 @@
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面
    * C:> git config --global user.name "HsuHsingYu"
    * C:> git config --global user.email s108056052@smail.nchu.edu.tw
- <img src="./step.jpg" height=300 />  
 
 ### STEP3
 * 加入indexNoAI.html
