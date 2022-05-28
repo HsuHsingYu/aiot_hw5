@@ -25,6 +25,11 @@ def data():
     return jsonify(seq)
 
 
+@app.route("/")
+def index():
+    return render_template('indexAI.html')
+
+
 @app.route("/noAI")
 def noAI():
     return render_template('indexNoAI.html')
