@@ -88,12 +88,23 @@ C:> 設定下面 (不設定 branch default ='main')
 5. 在app.py裡註冊”/getPredict”  
 ![](picture/pic27.png)  
 
-6. 匯入database的相關資訊 
+6. 匯入database的相關資訊  
+ ![](picture/db.png)  
   (1) 設定變數和引用套件  
+  ![](picture/6-1.png)  
+
   (2) 讀取model  
+  ![](picture/6-2.png)  
+
   (3) 從資料庫裡拿到測試資料  
+  ![](picture/6-3.png)  
+
   (4) 用model預測  
+  ![](picture/6-4.png)  
+
   (5) 寫回資料庫  
+  ![](picture/6-5.png)  
+
 7. 完成後執行app.py程式，即可看到此畫面  
 8. 按下SetRandom之後  
 9. 按下CallAI之後  
