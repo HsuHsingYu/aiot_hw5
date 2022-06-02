@@ -65,6 +65,7 @@ C:> 設定下面 (不設定 branch default ='main')
 ![](picture/pic20.png)
 
 4. 在app.py裡註冊”/setRandom”和定義getData function(導入到/setRandom之後會做的事)  
+![](picture/pic21.png)  
 
 5. 完成後執行app.py程式，在網址後面加上/noAI即可看到此畫面  
 
