@@ -106,8 +106,14 @@ C:> 設定下面 (不設定 branch default ='main')
   ![](picture/6-5.png)  
 
 7. 完成後執行app.py程式，即可看到此畫面  
+![](picture/6-7.png)  
+
 8. 按下SetRandom之後  
+![](picture/6-8.png)  
+
 9. 按下CallAI之後  
+![](picture/6-9.png)  
+
 * 完成內容請見step4
 ### STEP5 complete
 * 完成內容請見step5
