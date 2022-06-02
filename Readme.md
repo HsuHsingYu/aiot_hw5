@@ -48,6 +48,7 @@ C:> 設定下面 (不設定 branch default ='main')
 
 ![](picture/pic13.png)  
 ![](picture/pic14.png)  
+![](picture/pic15.png)可以由左下方看到目前已為step2分支  
 
 
 * 完成內容請見step2
