@@ -41,8 +41,13 @@ C:> 設定下面 (不設定 branch default ='main')
 ![](picture/pic10.png)
 
 ![](picture/pic11.png)  
-2. 完成後可以看到aiot資料夾的變化  
-![](picture/pic12.png)
+完成後可以看到aiot資料夾的變化  
+
+![](picture/pic12.png)  
+2. 在aiot_hw5下面建立step2的分支(p.s step1分支內容為將readme改為我們的資料後)  
+
+![](picture/pic13.png)  
+
 
 * 完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
