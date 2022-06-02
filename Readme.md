@@ -75,7 +75,14 @@ C:> 設定下面 (不設定 branch default ='main')
 4. indexAI.html有用到/getPredict這個網址  
 5. 在app.py裡註冊”/getPredict”  
 6. 匯入database的相關資訊  
-
+  (1) 設定變數和引用套件  
+  (2) 讀取model  
+  (3) 從資料庫裡拿到測試資料  
+  (4) 用model預測  
+  (5) 寫回資料庫  
+7. 完成後執行app.py程式，即可看到此畫面  
+8. 按下SetRandom之後  
+9. 按下CallAI之後  
 * 完成內容請見step4
 ### STEP5 complete
 * 完成內容請見step5
