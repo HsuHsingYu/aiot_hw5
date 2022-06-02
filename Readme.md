@@ -59,8 +59,10 @@ C:> 設定下面 (不設定 branch default ='main')
 1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI 後，會渲染到indexNoAI.html這個template上  
 ![](picture/pic18.png)  
 2. 加入indexNoAI.html  
+![](picture/pic19.png)  
 
 3. indexNoAI.html有用到/setRandom這個網址  
+![](picture/pic20.png)
 
 4. 在app.py裡註冊”/setRandom”和定義getData function(導入到/setRandom之後會做的事)  
 
