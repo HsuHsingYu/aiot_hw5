@@ -9,7 +9,9 @@
 ![](picture/python.png)
 
 ![](picture/官網python.png)
-2. (check-point 1) github create a new repository (aiot0524)
+2. 以下將操作 check-point 1
+*  我們需要建立一個資料夾，點擊下圖紅框區域輸入”cmd”來開啟終端機
+![](picture/pic2.png)
 3. go to vs code clone this repository (choose new branch) 
 4. vs code 安裝 python extension 
 5. pip install flask, pandas, sklearn 
