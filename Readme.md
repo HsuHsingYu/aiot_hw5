@@ -33,7 +33,7 @@
 C:> 設定下面 (不設定 branch default ='main')
    * C:> git config --global user.name "HsuHsingYu"
    * C:> git config --global user.email s108056052@smail.nchu.edu.tw
-  
+![](picture/check point 2.png)  
    
 7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
 
