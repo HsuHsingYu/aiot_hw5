@@ -18,7 +18,11 @@
 ![](picture/pic4.png)
 * 然後再開一個資料夾，將0524中的Readme.MD抓過來，此為接下來主要作業的地方
 ![](picture/pic5.png)
-3. go to vs code clone this repository (choose new branch) 
+3. 建立在github中的repository
+* 將剛剛建立好的資料夾利用vscode開啟
+* 點擊紅框，並選擇發布到gitHub
+* 選擇public的
+* 發布成功
 4. vs code 安裝 python extension 
 5. pip install flask, pandas, sklearn 
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
