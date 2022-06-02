@@ -33,17 +33,13 @@
 C:> 設定下面 (不設定 branch default ='main')
    * C:> git config --global user.name "HsuHsingYu"
    * C:> git config --global user.email s108056052@smail.nchu.edu.tw
-   
-![](picture/check_point_2.png)  
-   
-7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
 
-if you want to change
-git remote add origin https://github.com/HsuHsingYu/aiot_hw5.git
-git branch -M main
-git push -u origin main
+![](picture/check_point_2.png)  
 
 ### STEP2 simple flask web
+1. 使用vscode開啟aiot0524的資料夾，並簽出至step2  
+2. 
+
 * 完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
 * 完成內容請見step3
