@@ -7,6 +7,7 @@
 ![](picture/pic1.png) 
 * 而vscode中需要安裝好此次作業所需的python相關模組，另外也需要去python官網下載相關的內容
 ![](picture/python.png)
+![](picture/%E5%AE%98%E7%B6%B2python.png)
 2. (check-point 1) github create a new repository (aiot0524)
 3. go to vs code clone this repository (choose new branch) 
 4. vs code 安裝 python extension 
