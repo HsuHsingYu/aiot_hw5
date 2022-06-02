@@ -38,6 +38,7 @@ C:> 設定下面 (不設定 branch default ='main')
 
 ### STEP2 simple flask web
 1. 使用vscode開啟aiot0524的資料夾，並簽出至step2  
+![](picture/pic10.png)
 2. 
 
 * 完成內容請見step2
