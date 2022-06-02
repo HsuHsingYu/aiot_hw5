@@ -50,6 +50,10 @@ C:> 設定下面 (不設定 branch default ='main')
 ![](picture/pic14.png)  
 ![](picture/pic15.png)可以由左下方看到目前已為step2分支  
 3. 將aiot0524目前的內容抓到aiot_hw5的資料夾中，並發布step2分支  
+![](picture/pic16.png)  
+4. 將內容改完我們的資訊後重新推上去  
+![](picture/pic17.png)  
+
 
 
 * 完成內容請見step2
