@@ -58,6 +58,11 @@ C:> 設定下面 (不設定 branch default ='main')
 在這個步驟中我們需要加入indexNoAI.html檔，並修改app.py中的內容  
 1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI 後，會渲染到indexNoAI.html這個template上  
 ![](picture/pic18.png)  
+2. 加入indexNoAI.html  
+3. indexNoAI.html有用到/setRandom這個網址  
+4. 在app.py裡註冊”/setRandom”和定義getData function(導入到/setRandom之後會做的事)  
+5. 完成後執行app.py程式，在網址後面加上/noAI即可看到此畫面  
+
 
 * 完成內容請見step3
 ### STEP4 Logistic regression (有db互動)
