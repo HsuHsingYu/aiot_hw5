@@ -19,8 +19,8 @@
 ![](picture/pic4.png)
 * 然後再開一個資料夾，將0524中的Readme.MD抓過來，此為接下來主要作業的地方
 ![](picture/pic5.png)
-3. 建立在github中的repository
-* 將剛剛建立好的資料夾利用vscode開啟
+* 建立在github中的repository
+  * 將剛剛建立好的資料夾利用vscode開啟
 ![](picture/pic6.png)
 * 點擊紅框，並選擇發布到gitHub
 ![](picture/pic7.png)
