@@ -47,6 +47,7 @@ C:> 設定下面 (不設定 branch default ='main')
 2. 在aiot_hw5下面建立step2的分支(p.s step1分支內容為將readme改為我們的資料後)  
 
 ![](picture/pic13.png)  
+![](picture/pic14.png)  
 
 
 * 完成內容請見step2
