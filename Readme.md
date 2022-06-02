@@ -16,7 +16,8 @@
 將老師上課所提供的gitHub內容抓下來
 ![](picture/pic3.png)
 ![](picture/pic4.png)
-
+* 然後再開一個資料夾，將0524中的Readme.MD抓過來，此為接下來主要作業的地方
+![](picture/pic5.png)
 3. go to vs code clone this repository (choose new branch) 
 4. vs code 安裝 python extension 
 5. pip install flask, pandas, sklearn 
