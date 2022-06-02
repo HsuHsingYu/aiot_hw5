@@ -12,6 +12,11 @@
 2. 以下將操作 check-point 1
 *  我們需要建立一個資料夾，點擊下圖紅框區域輸入”cmd”來開啟終端機
 ![](picture/pic2.png)
+在裡面輸入 git clone https://github.com/huanchen1107/aiot0524.git
+將老師上課所提供的gitHub內容抓下來
+![](picture/pic3.png)
+![](picture/pic4.png)
+
 3. go to vs code clone this repository (choose new branch) 
 4. vs code 安裝 python extension 
 5. pip install flask, pandas, sklearn 
