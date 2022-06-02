@@ -53,11 +53,11 @@ C:> 設定下面 (不設定 branch default ='main')
 ![](picture/pic16.png)  
 4. 將內容改完我們的資訊後重新推上去  
 ![](picture/pic17.png)  
-
-
-
-* 完成內容請見step2
+完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
+在這個步驟中我們需要加入indexNoAI.html檔，並修改app.py中的內容  
+1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI後，會渲染到indexNoAI.html這個template上  
+
 * 完成內容請見step3
 ### STEP4 Logistic regression (有db互動)
 * 完成內容請見step4
