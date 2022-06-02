@@ -40,7 +40,7 @@ C:> 設定下面 (不設定 branch default ='main')
 1. 使用vscode開啟aiot0524的資料夾，並簽出至step2  
 ![](picture/pic10.png)
 
-![](picture/pic11.png)
+![](picture/pic11.png)  
 2. 完成後可以看到aiot資料夾的變化  
 ![](picture/pic12.png)
 
