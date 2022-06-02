@@ -68,6 +68,7 @@ C:> 設定下面 (不設定 branch default ='main')
 ![](picture/pic21.png)  
 
 5. 完成後執行app.py程式，在網址後面加上/noAI即可看到此畫面  
+![](picture/pic22.png)
 
 * 完成內容請見step3
 ### STEP4 Logistic regression (有db互動)
