@@ -39,7 +39,10 @@ C:> 設定下面 (不設定 branch default ='main')
 ### STEP2 simple flask web
 1. 使用vscode開啟aiot0524的資料夾，並簽出至step2  
 ![](picture/pic10.png)
-2. 
+
+![](picture/pic11.png)
+2. 完成後可以看到aiot資料夾的變化  
+![](picture/pic12.png)
 
 * 完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
