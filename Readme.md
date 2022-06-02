@@ -74,11 +74,21 @@ C:> 設定下面 (不設定 branch default ='main')
 ### STEP4 Logistic regression (有db互動)
 在此步驟中我們會將logistic regression的model應用到作業中，亦會把程式與db互動的部分完成  
 1. 註冊網址(“/”)，進入http://127.0.0.1:5000 後，會渲染到indexAI.html這個template上  
-2. 加入indexAI.html檔
+![](picture/pic23.png)  
+
+2. 加入indexAI.html檔  
+![](picture/pic24.png)
+
 3. indexAI.html裡有兩個按鈕，setRandom和callAI，按下setRandom後會到入到”/noAI”，按下callAI後會導入到”/”  
+![](picture/pic25.png)  
+
 4. indexAI.html有用到/getPredict這個網址  
+ ![](picture/pic26.png) 
+
 5. 在app.py裡註冊”/getPredict”  
-6. 匯入database的相關資訊  
+![](picture/pic27.png)  
+
+6. 匯入database的相關資訊 
   (1) 設定變數和引用套件  
   (2) 讀取model  
   (3) 從資料庫裡拿到測試資料  
