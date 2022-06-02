@@ -20,9 +20,13 @@
 ![](picture/pic5.png)
 3. 建立在github中的repository
 * 將剛剛建立好的資料夾利用vscode開啟
+![](picture/pic6.png)
 * 點擊紅框，並選擇發布到gitHub
+![](picture/pic7.png)
 * 選擇public的
+![](picture/pic8.png)
 * 發布成功
+![](picture/pic9.png)
 4. vs code 安裝 python extension 
 5. pip install flask, pandas, sklearn 
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
