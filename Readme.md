@@ -59,13 +59,23 @@ C:> 設定下面 (不設定 branch default ='main')
 1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI 後，會渲染到indexNoAI.html這個template上  
 ![](picture/pic18.png)  
 2. 加入indexNoAI.html  
-3. indexNoAI.html有用到/setRandom這個網址  
-4. 在app.py裡註冊”/setRandom”和定義getData function(導入到/setRandom之後會做的事)  
-5. 完成後執行app.py程式，在網址後面加上/noAI即可看到此畫面  
 
+3. indexNoAI.html有用到/setRandom這個網址  
+
+4. 在app.py裡註冊”/setRandom”和定義getData function(導入到/setRandom之後會做的事)  
+
+5. 完成後執行app.py程式，在網址後面加上/noAI即可看到此畫面  
 
 * 完成內容請見step3
 ### STEP4 Logistic regression (有db互動)
+在此步驟中我們會將logistic regression的model應用到作業中，亦會把程式與db互動的部分完成  
+1. 註冊網址(“/”)，進入http://127.0.0.1:5000 後，會渲染到indexAI.html這個template上  
+2. 加入indexAI.html檔
+3. indexAI.html裡有兩個按鈕，setRandom和callAI，按下setRandom後會到入到”/noAI”，按下callAI後會導入到”/”  
+4. indexAI.html有用到/getPredict這個網址  
+5. 在app.py裡註冊”/getPredict”  
+6. 匯入database的相關資訊  
+
 * 完成內容請見step4
 ### STEP5 complete
 * 完成內容請見step5
