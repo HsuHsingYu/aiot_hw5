@@ -2,8 +2,9 @@
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
-### Step 1 : Development Environment Setup in aiot_hw5
+### Step 1 : Development Environment Setup in aiot_hw5 (前置作業)
 1. Please install vs code, register github, install git for windows
+![](picture%5Cpic1.png)
 2. (check-point 1) github create a new repository (aiot0524)
 3. go to vs code clone this repository (choose new branch) 
 4. vs code 安裝 python extension 
