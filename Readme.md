@@ -56,7 +56,7 @@ C:> 設定下面 (不設定 branch default ='main')
 完成內容請見step2
 ### STEP3 app.py NoAI.html (有highchart)
 在這個步驟中我們需要加入indexNoAI.html檔，並修改app.py中的內容  
-1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI後，會渲染到indexNoAI.html這個template上  
+1. 註冊網址(“/noAI”)，進入http://127.0.0.1:5000/noAI 後，會渲染到indexNoAI.html這個template上  
 ![](picture/pic18.png)  
 
 * 完成內容請見step3
