@@ -117,6 +117,7 @@ C:> 設定下面 (不設定 branch default ='main')
 * 完成內容請見step4
 ### STEP5 complete
 * 完成內容請見step5
+![Highcharts MyDemo 5_17 11_29 - Google Chrome 2022-06-19 15-18-46_](https://user-images.githubusercontent.com/92151140/174470414-6b82ad08-26f5-497d-87ad-d230c793f0c9.gif)
 
 
 
